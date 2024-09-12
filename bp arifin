@@ -4,6 +4,10 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Halaman Web Sederhana</title>
+    <header>
+        <h1>Muhammad Hafix Ansyari</h1>
+        <p>C030323031</p>
+    </header>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -56,27 +60,27 @@
             padding: 20px;
         }
         .judul1 {
-            background-color: #3d751f;
+            background-color: #e6b326;
             padding: 20px;
         }
         .isi1 {
-            background-color: #a49819b3;
+            background-color: #e6b326;
             padding: 5px;
         }
         .judul2 {
-            background-color: #333;
+            background-color: #2181d0;
             padding: 20px;
         }
         .isi2 {
-            background-color: #33535d;
+            background-color: #2181d0;
             padding: 5px;
         }
         .judul3 {
-            background-color: #333;
+            background-color: #fff306;
             padding: 20px;
         }
         .isi3 {
-            background-color: #333;
+            background-color: #fff306;
             padding: 5%;
         }
         
@@ -96,11 +100,11 @@
     <div class="container">
         <div class="artikel">
             <h2 class="judul1">Artikel 1 - HTML</h2>
-            <P class="isi1">AJHDAJHASAAHASJASJ</P>
+            <P class="isi1">HTML adalah singkatan dari HyperText Markup Language. Sederhananya, HTML adalah bahasa yang digunakan untuk membuat struktur dasar sebuah halaman web. Bayangkan HTML seperti kerangka dari sebuah rumah. Kerangka ini menentukan di mana letak pintu, jendela, dan ruangan-ruangan lainnya.</P>
             <h2 class="judul2">Artikel 2 - CSS</h2>
-            <p class="isi2">hjgfjsdgfjsgfjsdggfjgfj</p>
+            <p class="isi2">CSS adalah singkatan dari Cascading Style Sheets. Ini adalah bahasa pemrograman yang digunakan untuk mengatur tampilan dan gaya dari sebuah halaman web. CSS bekerja dengan cara menambahkan aturan-aturan tertentu ke elemen-elemen HTML yang sudah ada.</p>
             <h2 class="judul3">Artikel 3 - Java Script</h2>
-            <p class="isi3">hfhytfgjgfsgfjsgfhgfjgfsfd</p>
+            <p class="isi3">JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web interaktif. Berbeda dengan HTML yang mengatur struktur halaman dan CSS yang mengatur tampilan, JavaScript memberikan perilaku dinamis pada halaman web.</p>
         </div>
     </div>
     <footer>
